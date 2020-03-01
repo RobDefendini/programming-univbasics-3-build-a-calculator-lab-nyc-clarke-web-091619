@@ -2,7 +2,7 @@ num1 = 5
 num2 = 10
 
 def addition(num1, num2)
-
+num2 + num1
 end
 
 def subtraction(num1, num2)
