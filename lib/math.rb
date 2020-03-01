@@ -24,6 +24,8 @@ num2 * num1
 end
 
 def modulo(num1, num2)
+num2 = 34
+num1 = 5
 
 end
 
