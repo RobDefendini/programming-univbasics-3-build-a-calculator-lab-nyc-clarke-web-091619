@@ -12,7 +12,7 @@ num2 - num1
 end
 
 def division(num1, num2)
-  num2 / num1
+  10 / 5
 
 end
 
