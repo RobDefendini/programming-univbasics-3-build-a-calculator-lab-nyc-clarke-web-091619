@@ -12,8 +12,9 @@ num2 - num1
 end
 
 def division(num1, num2)
-  50 / 2
-
+  num1 = 2
+  num2 = 50
+num2 / num1
 end
 
 def multiplication(num1, num2)
